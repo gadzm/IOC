@@ -1,0 +1,23 @@
+Dictionary perfomance test
+no. of elements:        4 time elapsed(ms):      0
+no. of elements:        8 time elapsed(ms):      0
+no. of elements:       16 time elapsed(ms):      0
+no. of elements:       32 time elapsed(ms):      0
+no. of elements:       64 time elapsed(ms):      0
+no. of elements:      128 time elapsed(ms):      0
+no. of elements:      256 time elapsed(ms):      0
+no. of elements:      512 time elapsed(ms):      0
+no. of elements:     1024 time elapsed(ms):      0
+no. of elements:     2048 time elapsed(ms):      0
+no. of elements:     4096 time elapsed(ms):      0
+no. of elements:     8192 time elapsed(ms):      0
+no. of elements:    16384 time elapsed(ms):      1
+no. of elements:    32768 time elapsed(ms):      3
+no. of elements:    65536 time elapsed(ms):     10
+no. of elements:   131072 time elapsed(ms):     88
+no. of elements:   262144 time elapsed(ms):     44
+no. of elements:   524288 time elapsed(ms):    203
+no. of elements:  1048576 time elapsed(ms):    345
+no. of elements:  2097152 time elapsed(ms):    647
+no. of elements:  4194304 time elapsed(ms):   1164
+no. of elements:  8388608 time elapsed(ms):   2530
